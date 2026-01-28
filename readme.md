@@ -37,14 +37,23 @@ These documents are designed to be read and followed by the **AI assistant**.
 Your new project structure should look like this:
 
 /your-new-project/ 
+
 ├── README.md 
+
 └───/docs/ 
+
     └───/ai/ 
+    
         ├───charter.md 
+        
         ├───rules.md 
+        
         ├───guide.md 
+        
         ├───lessons.md 
+        
         └───session.md 
+        
 
 ---
 
