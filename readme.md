@@ -1,9 +1,9 @@
-# AI Guidance Framework for Hobbyist Projects
-# readme.md
-# Sami Cokar
-# 0.0.1 - Sep 20, 2025 - Discovery Draft
-# 0.0.2 - Sep 29, 2025 - Initial Release
-#
+AI Guidance Framework for Hobbyist Projects
+readme.md
+Sami Cokar
+0.0.1 - Sep 20, 2025 - Discovery Draft
+0.0.2 - Sep 29, 2025 - Initial Release
+
 
 You are a hobbyist or enthusiast interested in using AI to develop a solution, such as a website or game or an app.
 
@@ -36,15 +36,15 @@ These documents are designed to be read and followed by the **AI assistant**.
 
 Your new project structure should look like this:
 
-/your-new-project/
-├── README.md
-└───/docs/
-    └───/ai/
-        ├───charter.md
-        ├───rules.md
-        ├───guide.md
-        ├───lessons.md
-        └───session.md
+/your-new-project/ 
+├── README.md 
+└───/docs/ 
+    └───/ai/ 
+        ├───charter.md 
+        ├───rules.md 
+        ├───guide.md 
+        ├───lessons.md 
+        └───session.md 
 
 ---
 
